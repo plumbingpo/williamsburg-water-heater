@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://williamsburgwaterheater.com/sitemap.xml
